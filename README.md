@@ -14,7 +14,6 @@ This project is intended for educational and research purposes, such as learning
 ```
 ## ⚖️ Disclaimer
 > ⚠️ This project is intended for educational and research purposes only. Do **not** use it on VAC-secured or official servers, as doing so may result in a permanent ban.
-   
 ## ❤️ Support  
 If you like this project, don't forget to leave a star on GitHub. Your support is greatly appreciated!
 
