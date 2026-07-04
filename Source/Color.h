@@ -1,3 +1,5 @@
+// Colors Class RGBA
+
 #pragma once
 
 class Color
