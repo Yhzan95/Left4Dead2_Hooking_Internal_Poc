@@ -13,9 +13,6 @@ This project is intended for educational and research purposes, such as learning
 3) Once the DLL has been injected successfully colored log messages will appear in the in-game developer console
 ```
 ## ⚖️ Disclaimer
-> ⚠️ **Disclaimer:** This project is intended for educational and research purposes only. Do **not** use it on VAC-secured or official servers, as doing so may result in a permanent ban.
-
-## ⚖️ Disclaimer
 > ⚠️ This project is intended for educational and research purposes only. Do **not** use it on VAC-secured or official servers, as doing so may result in a permanent ban.
    
 ## ❤️ Support  
