@@ -1,3 +1,8 @@
+///////////////////////////////////
+// Console hooking Source2 games //
+// @ https://github.com/Yhzan95  //
+///////////////////////////////////
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <Windows.h>
 #include <cstdarg>
