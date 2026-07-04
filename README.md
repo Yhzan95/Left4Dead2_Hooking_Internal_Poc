@@ -12,13 +12,11 @@ This project is intended for educational and research purposes, such as learning
 2) Inject the compiled DLL into the game process using Process Hacker or any DLL injector of your choice
 3) Once the DLL has been injected successfully colored log messages will appear in the in-game developer console
 ```
+## ⚖️ Disclaimer
+> ⚠️ **Disclaimer:** This project is intended for educational and research purposes only. Do **not** use it on VAC-secured or official servers, as doing so may result in a permanent ban.
 
-## 🙇 Acknowledgements      
-This repository is intended solely for educational and research purposes related to cybersecurity. The tools and scripts provided here are designed to help security professionals and researchers understand and simulate real-world security threats in a controlled environment.
-
-By using or cloning this repository, you agree to use it only in authorized environments with permission from system owners. Unauthorized or malicious use of these tools could violate local, state, national, and international laws, and we do not assume any responsibility for any damages or consequences resulting from such misuse.
-
-The contributors of this project are not liable for any harm or damages caused by improper or illegal use of this software. Please never use this tool for illegal purpose.
+## ⚖️ Disclaimer
+> ⚠️ This project is intended for educational and research purposes only. Do **not** use it on VAC-secured or official servers, as doing so may result in a permanent ban.
    
 ## ❤️ Support  
 If you like this project, don't forget to leave a star on GitHub. Your support is greatly appreciated!
